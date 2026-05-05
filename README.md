@@ -17,6 +17,14 @@
   <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" title="Discord" alt="Discord" width="40" height="40"/>&nbsp
      </tr>
+  <tr align="center">
+    <td>Postman</td>
+    <td>Rest</td>
+    <td>Soap</td>
+    <td>Kafka</td>
+    <td>Swagger</td>
+    <td>Docker</td>
+  </tr>
 </div>
 
 ## Тестирование Web и Мобильных приложений
